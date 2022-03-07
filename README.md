@@ -26,11 +26,11 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android%32Studio&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android%20Studio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/webRTC-333333?style=flat&logo=WebRTC&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual%32Studio&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/IntelliJ-F27513?style=flat&logo=IntelliJ%32IDEA&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/PyCharm-20D088?style=flat&logo=PyCharmC&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual%20Studio&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/IntelliJ-F27513?style=flat&logo=IntelliJ%20IDEA&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PyCharm-20D088?style=flat&logo=PyCharm&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>
