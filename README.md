@@ -25,12 +25,12 @@
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual%20Studio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/IntelliJ-F27513?style=flat&logo=IntelliJ%20IDEA&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PyCharm-20D088?style=flat&logo=PyCharm&logoColor=white"/></a>
-
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android%20Studio&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/webRTC-333333?style=flat&logo=WebRTC&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/></a>
