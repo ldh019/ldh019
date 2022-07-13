@@ -11,7 +11,7 @@
 
 ## 😃 I’m ...
 - majoring in **computer science & engineering** in Chung-Ang University (2020 ~, Junior in 2022).
-- doing **Research Lab Intern at <a href="https://sites.google.com/view/hcslab-cau">HCSLAB</a> @ CAU** since Jan. 2022.
+- doing **Research Lab Intern at <a href="https://sites.google.com/view/hcslab-cau">HCSLAB</a>@CAU** since Jan. 2022.
 - studying at **42Seoul Academy**.
 
 ## 💻 I’m currently working on ...
