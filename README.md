@@ -13,7 +13,7 @@
 - majoring in **computer science & engineering** in Chung-Ang University (2020 ~, Junior in 2022).
 - doing **Research Lab Intern at <a href="https://sites.google.com/view/hcslab-cau">HCSLAB</a>@CAU** since Jan. 2022.
 - studying at **42Seoul Academy** since Jan 2022.
-- taking NAVER Boostcamp Challenge Android course (July 2022 ~ August 2022).
+- taking **NAVER Boostcamp Challenge** Android course (July 2022 ~ August 2022).
 
 ## 💻 I’m currently working on ...
 - **<a href="https://github.com/ARA-developer/ARA">ARA</a>** Project. (Mar. 2021 ~)
