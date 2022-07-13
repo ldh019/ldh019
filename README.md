@@ -12,7 +12,8 @@
 ## 😃 I’m ...
 - majoring in **computer science & engineering** in Chung-Ang University (2020 ~, Junior in 2022).
 - doing **Research Lab Intern at <a href="https://sites.google.com/view/hcslab-cau">HCSLAB</a>@CAU** since Jan. 2022.
-- studying at **42Seoul Academy**.
+- studying at **42Seoul Academy** since Jan 2022.
+- taking NAVER Boostcamp Challenge Android course (July 2022 ~ August 2022).
 
 ## 💻 I’m currently working on ...
 - **<a href="https://github.com/ARA-developer/ARA">ARA</a>** Project. (Mar. 2021 ~)
@@ -39,7 +40,7 @@
 <img src="https://img.shields.io/badge/GitKraken-179287?style=flat&logo=GitKraken&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/></a>
 
-- Android programming (Android Studio)
+- Android programming (Kotlin, Java)
 - Human-Centered Interaction System Research (Sensing & IoT)
 
 ## 📊 Stats
