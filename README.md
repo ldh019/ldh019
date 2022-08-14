@@ -17,7 +17,7 @@
 
 ## 💻 I’m currently working on ...
 - **<a href="https://github.com/ARA-developer/ARA">ARA</a>** Project. (Mar. 2021 ~)
-- **VibAuth** Project. (Mar. 2022 ~)
+- **vibration authentication** Project. (Mar. 2022 ~)
 
 ## 📚 I'm studying ... / I've used ...
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a>
