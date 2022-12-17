@@ -12,14 +12,13 @@
 ## 😃 I’m ...
 - majoring in **computer science & engineering** in Chung-Ang University (2020 ~, Junior in 2022).
 - doing **Research Lab Intern at <a href="https://sites.google.com/view/hcslab-cau">HCSLAB</a>@CAU** since Jan. 2022.
-- taking **NAVER Boostcamp Membership** Android course (August 2022 ~ ). 
 ---
 - studied at **42Seoul Academy** (Jan 2022 ~ August 2022).
-- took **NAVER Boostcamp Challenge** Android course (July 2022 ~ August 2022).
+- took **NAVER CONNECT Foundation boostcamp Challenge** Android course (July 2022 ~ August 2022).
+- took **NAVER CONNECT Foundation boostcamp Membership** Android course (August 2022 ~ December 2022). 
 
 ## 💻 I’m currently working on ...
 - **<a href="https://github.com/ARA-developer/ARA">ARA</a>** Project. (Mar. 2021 ~)
-- **vibration authentication** Project. (Mar. 2022 ~)
 
 ## 📚 I'm studying ... / I've used ...
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a>
