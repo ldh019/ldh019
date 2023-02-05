@@ -8,7 +8,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fldh019&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 😃 I’m ...
-- majoring in **computer science & engineering** in Chung-Ang University (2020 ~, Junior in 2022).
+- majoring in **computer science & engineering** in Chung-Ang University (2020 ~, Junior in 2023).
 - doing **Research Lab Intern at <a href="https://sites.google.com/view/hcslab-cau">HCSLAB</a>@CAU** since Jan. 2022.
 ---
 - studied at **42Seoul Academy** (Jan 2022 ~ August 2022).
@@ -16,7 +16,7 @@
 - took **NAVER CONNECT Foundation boostcamp Membership** Android course (August 2022 ~ December 2022). 
 
 ## 💻 I’m currently working on ...
-- **<a href="https://github.com/ARA-developer/ARA">ARA</a>** Project. (Mar. 2021 ~)
+- **<a href="https://github.com/ARA-developer/ARA">ARA</a>** Project. (Mar. 2021 ~ )
 
 ## 📚 I'm studying ... / I've used ...
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a>
