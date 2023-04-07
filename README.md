@@ -10,6 +10,7 @@
 ## 😃 I’m ...
 - majoring in **computer science & engineering** in Chung-Ang University (2020 ~, Junior in 2023).
 - doing **Research Lab Intern at <a href="https://sites.google.com/view/hcslab-cau">HCSLAB</a>@CAU** since Jan. 2022.
+- a core member of **<a href="https://gdsc.community.dev/chungang-university/">Google Developer Student Clubs CAU</a>** since March 2023. 
 ---
 - studied at **42Seoul Academy** (6th Cadet) (Jan 2022 ~ August 2022).
 - took **NAVER CONNECT Foundation boostcamp Challenge** Android course (July 2022 ~ August 2022).
