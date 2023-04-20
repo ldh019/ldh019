@@ -12,9 +12,9 @@
 - doing **Research Lab Intern at <a href="https://sites.google.com/view/hcslab-cau">HCSLAB</a>@CAU** since Jan. 2022.
 - a core member of **<a href="https://gdsc.community.dev/chungang-university/">Google Developer Student Clubs CAU</a>** since March 2023. 
 ---
-- studied at **42Seoul Academy** (6th Cadet) (Jan 2022 ~ August 2022).
-- took **NAVER CONNECT Foundation boostcamp Challenge** Android course (July 2022 ~ August 2022).
-- took **NAVER CONNECT Foundation boostcamp Membership** Android course (August 2022 ~ December 2022). 
+- studied at **42Seoul Academy** (6th Cadet, Jan 2022 ~ August 2022).
+- took **NAVER CONNECT Foundation boostcamp Challenge** (7th Android, July 2022 ~ August 2022).
+- took **NAVER CONNECT Foundation boostcamp Membership** (7th Android, August 2022 ~ December 2022). 
 
 ## 💻 I’m currently working on ...
 - **<a href="https://github.com/ARA-developer/ARA">ARA</a>** Project. (Mar. 2021 ~ )
