@@ -16,9 +16,8 @@
 - took **NAVER CONNECT Foundation boostcamp Challenge** (7th Android, July 2022 ~ August 2022).
 - took **NAVER CONNECT Foundation boostcamp Membership** (7th Android, August 2022 ~ December 2022). 
 
-## 💻 I’m currently working on ...
-- **<a href="https://github.com/ARA-developer/ARA">ARA</a>** Project. (Mar. 2021 ~ )
-- **<a href="https://github.com/GO-GO-NEVER-END/Royal-Flush-Android">Royal Flush</a>** Project. (Mar. 2023 ~ )
+## 💻 I've worked before on ...
+- **<a href="https://github.com/ARA-developer/ARA">ARA</a>** Project. (Mar. 2021 ~ May. 2023)
 
 ## 📚 I'm studying ... / I've used ...
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a>
