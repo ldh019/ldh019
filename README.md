@@ -8,7 +8,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fldh019&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 😃 I’m ...
-- majoring in **computer science & engineering** in Chung-Ang University (2020 ~, Junior in 2023).
+- majoring in **computer science & engineering** in Chung-Ang University (2020 ~, Senior in 2024).
 - doing **Research Lab Intern at <a href="https://sites.google.com/view/hcslab-cau">HCSLAB</a>@CAU** since Jan. 2022.
 - a core member of **<a href="https://gdsc.community.dev/chungang-university/">Google Developer Student Clubs CAU</a>** since March 2023. 
 ---
