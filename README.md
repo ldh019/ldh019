@@ -8,10 +8,11 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fldh019&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 😃 I’m ...
-- majoring in **computer science & engineering** in Chung-Ang University (2020 ~, Senior in 2024).
-- doing **Research Lab Intern at <a href="https://sites.google.com/view/hcslab-cau">HCSLAB</a>@CAU** since Jan. 2022.
+- a M.S. student majoring in **computer science** on <a href="https://sites.google.com/view/hcslab-cau">HCSLAB@CAU</a> since Sep. 2024.
 - a core member of **<a href="https://gdsc.community.dev/chungang-university/">Google Developer Student Clubs CAU</a>** since March 2023. 
 ---
+- have a bachelor's degree in **computer science & engineering** in Chung-Ang University (Mar. 2020. ~ Aug. 2024.).
+- did **Research Lab Intern at <a href="https://sites.google.com/view/hcslab-cau">HCSLAB@CAU</a>** (Jan. 2022. ~ Aug. 2024.).
 - studied at **42Seoul Academy** (6th Cadet, Jan 2022 ~ August 2022).
 - took **NAVER CONNECT Foundation boostcamp Challenge** (7th Android, July 2022 ~ August 2022).
 - took **NAVER CONNECT Foundation boostcamp Membership** (7th Android, August 2022 ~ December 2022). 
