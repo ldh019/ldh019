@@ -9,13 +9,13 @@
 
 ## 😃 I’m ...
 - a M.S. student majoring in **computer science** on <a href="https://sites.google.com/view/hcslab-cau">HCSLAB@CAU</a> since Sep. 2024.
-- a core member of **<a href="https://gdsc.community.dev/chungang-university/">Google Developer Student Clubs CAU</a>** since March 2023. 
 ---
 - have a bachelor's degree in **computer science & engineering** in Chung-Ang University (Mar. 2020. ~ Aug. 2024.).
 - did **Research Lab Intern at <a href="https://sites.google.com/view/hcslab-cau">HCSLAB@CAU</a>** (Jan. 2022. ~ Aug. 2024.).
 - studied at **42Seoul Academy** (6th Cadet, Jan 2022 ~ August 2022).
 - took **NAVER CONNECT Foundation boostcamp Challenge** (7th Android, July 2022 ~ August 2022).
-- took **NAVER CONNECT Foundation boostcamp Membership** (7th Android, August 2022 ~ December 2022). 
+- took **NAVER CONNECT Foundation boostcamp Membership** (7th Android, August 2022 ~ December 2022).
+- a core member of **<a href="https://gdsc.community.dev/chungang-university/">Google Developer Student Clubs CAU</a>** (March 2023. ~ Aug. 2025.). 
 
 ## 💻 I've worked before on ...
 - **<a href="https://github.com/ARA-developer/ARA">ARA</a>** Project. (Mar. 2021 ~ May. 2023)
